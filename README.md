@@ -176,5 +176,6 @@ For a detailed explanation of NORG’s functionalities and step-by-step instruct
 GPL-3.0 license 
 
 ## How to cite
-to be announced
+Keller, M., Przybilla, M., Sehring, J., Schmid, K., Kauer, T., Dörmer, F., ... & Amsel, D. (2026). NORG-Nitrogen ORGanizer: a novel web-based system for cryopreservation and freezer management. Database, 2026, baag037.
+
 
